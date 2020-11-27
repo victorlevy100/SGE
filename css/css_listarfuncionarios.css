@@ -1,0 +1,32 @@
+.form{
+	margin: 20px 250px 0px;
+	width: 63%;
+}
+
+.td{
+	text-align: center;
+}
+
+.td1{
+	background-color: #c87e7e;
+}
+
+
+.tdcenter{
+	text-align: center;
+	border: solid;
+}
+
+td{
+	font-weight: bold;//deixa a fonte em negrito
+}
+
+.button{
+	background-color: #7a91c1;
+	font-weight: bold;
+	border-radius: 7px;
+	padding: 5px;
+	font-family: "Comic Sans MS";
+	font-size: 12px;
+	box-shadow: 7px 7px 7px;
+}
